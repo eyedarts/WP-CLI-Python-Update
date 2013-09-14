@@ -14,7 +14,7 @@ $ source bin/activate
 ```
 
 
-Edit hosts to wp_sites_local.txt
+Edit hosts in wp_sites_local.txt
 -------------------------------
 For hosts on your local machine, add lines like these to this file:
 
@@ -24,7 +24,7 @@ For hosts on your local machine, add lines like these to this file:
 /home/user/path/to/WordPress/instance3
 ```
 
-Edit hosts to ssh_sites.txt
+Edit hosts in ssh_sites.txt
 --------------------------
 For hosts on a remote machine, add lines like these to this file:
 
